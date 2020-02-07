@@ -1,0 +1,18 @@
+.container{
+	background-color: #F0F8FF;
+}
+#all{
+	background-color: #bfbfbf;
+}
+#navbar{
+	background-color: #bfbfbf;
+	margin: 0;
+	padding: 10px;
+}
+.col-md-12{
+	background-color: #969696;
+}
+#copyright{
+	background-color: #bfbfbf;
+	color: #000000;
+}

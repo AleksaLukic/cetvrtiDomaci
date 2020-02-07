@@ -1,0 +1,8 @@
+.centralno{
+  margin: 0 auto;
+}
+.centralno img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
